@@ -2,6 +2,8 @@
 
 A tiny [SwiftBar](https://github.com/swiftbar/SwiftBar) plugin that adds a menu bar toggle to keep your Mac **awake with the lid closed** — handy for leaving long-running jobs (builds, AI agents, downloads…) working while the laptop is shut.
 
+![Menu bar preview](assets/preview.png)
+
 - ☕️ — sleep disabled: the Mac stays awake even with the lid closed
 - 💤 — normal behaviour: the Mac sleeps when you close the lid
 
